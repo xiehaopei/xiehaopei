@@ -3,6 +3,7 @@
 
 **I'm [Xiehaopei](https://github.com/xiehaopei) ! I'm a 21 Years old web front-end development engineer who is passionate about open source.**
 
+
 ## 🧐 About
 
 - 👨‍💻 My blog: https://we-arts.cn
@@ -10,7 +11,7 @@
 - 🌱 I’m currently learning TypeScript and Vue3
 - 📚 I'm preparing myself for a good job
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <a href="https://github.com/xiehaopei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiehaopei&layout=compact" />
 </a>
