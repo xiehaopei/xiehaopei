@@ -6,7 +6,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://we-arts.cn
+- 👨‍💻 My blog: https://www.yuque.com/monster-ulfy6/tih0h6
 - 📫 How to reach me: 15907678645@163.com
 - 🌱 I’m currently learning TypeScript and Vue3
 - 📚 I'm preparing myself for a good job
