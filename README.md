@@ -1,15 +1,14 @@
 
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Xiehaopei](https://github.com/xiehaopei) ! I'm a 21 Years old web front-end development engineer who is passionate about open source.**
-
+**I'm [Xiehaopei](https://github.com/xiehaopei) who is passionate about open source and learning new technology.**
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://www.yuque.com/monster-ulfy6/tih0h6
+- 👨‍💻 My blog: https://42.194.187.106/blog
 - 📫 How to reach me: 15907678645@163.com
-- 🌱 I’m currently learning TypeScript and Vue3
-- 📚 I'm preparing myself for a good job
+- 🌱 I’m currently learning performance optimization of web project
+- 📚 I'm preparing myself for postgraduate entrance examination
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <a href="https://github.com/xiehaopei">
