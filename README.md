@@ -5,7 +5,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: <a href="https://42.194.187.106/blog" target="_blank">https://42.194.187.106/blog</a>
+- 👨‍💻 My blog: <a href="https://42.194.187.106" target="_blank">https://42.194.187.106/blog</a>
 - 📫 How to reach me: <a href="Mailto:15907678645@163.com">15907678645@163.com</a>
 - 🌱 I’m currently learning performance optimization of web project
 - 📚 I'm preparing myself for postgraduate entrance examination
