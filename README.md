@@ -1,7 +1,7 @@
 
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Xiehaopei](https://github.com/xiehaopei) who is passionate about open source and learning new technology.**
+**I'm [Xiehaopei](http://github.com/xiehaopei) who is passionate about open source and learning new technology.**
 
 ## 🧐 About
 
